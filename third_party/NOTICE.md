@@ -27,6 +27,5 @@
 
 - 悬挂白衬衫：[Womens orvis shirt white.jpg](https://commons.wikimedia.org/wiki/File:Womens_orvis_shirt_white.jpg)，Punker1999，[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。示例中缩放并生成透明背景衍生图。
 - 平铺衬衫：[Shirt (AM 1999.95.2).jpg](https://commons.wikimedia.org/wiki/File:Shirt_(AM_1999.95.2).jpg)，**Auckland Museum**，[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。示例中缩放、去除背景、合成对比底色；原图有比例尺，本模型会将其保留在衣物内部。图片和机构不构成对本应用的背书。
-- 补充针织衣物样本来自 Unsplash photo-1434389677669-e08b4cac3105，仅在本机 `work/` 做探索测试；未纳入分发文档、APK 或源码包。
 
 本文件只列本轮新增的图像模型和运行库；AndroidX / Kotlin / Compose 等基础组件保留各自上游许可。
