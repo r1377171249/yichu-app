@@ -1,0 +1,20 @@
+XiaoYiChu / 小衣橱
+
+Original application code and project documentation: MIT; see LICENSE.
+Third-party components, model weights, test photos and their derivatives retain
+their own licenses. The root MIT license does not relicense these materials.
+See third_party/NOTICE.md, third_party/licenses/, and app/src/main/assets/licenses/.
+
+The bundled unmodified U2NET-p ONNX model is distributed by rembg, based on
+U-2-Net by Xuebin Qin et al. Upstream U-2-Net is Apache-2.0 and rembg is MIT.
+The model is not trained by this project. No separate dataset or training-data
+license is granted by this project.
+
+ONNX Runtime is MIT. AndroidX / Compose / Gradle and other dependencies retain
+their upstream licenses.
+
+Documented public photo attribution:
+- Auckland Museum, Shirt (AM 1999.95.2).jpg, CC BY 4.0.
+- Punker1999, Womens orvis shirt white.jpg, CC0 1.0.
+Images are resized / background-removed in test screenshots. Attribution links
+and transformation notes are retained in third_party/NOTICE.md.

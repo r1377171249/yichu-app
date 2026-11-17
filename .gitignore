@@ -1,0 +1,33 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.idea/
+*.iml
+*.jks
+*.keystore
+work/
+.local/
+
+# Private data and credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.db
+*.db-shm
+*.db-wal
+*.apk
+*.aab
+*.zip
+outputs/
+.DS_Store
+
+# Local development records are not part of the public distribution
+PROJECT.md
+AGENTS.md
+*.bundle
+docs/*
+!docs/RELEASE-*.md
